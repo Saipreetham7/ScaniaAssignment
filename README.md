@@ -136,7 +136,7 @@ https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/999c3662-56ac-4
 if (price1_extract === f_price) {
     console.log('Testcase Passed: Prices are same');
   } else {
-    console.log('Testcase Failed: Prices are different, berfore and after');
+    console.log('Testcase Failed: Prices are different, before and after');
 }
 ```
 
