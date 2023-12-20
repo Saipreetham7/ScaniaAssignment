@@ -44,7 +44,7 @@ npm i -D @playwright/test
 # install supported browsers
 npx playwright install
 ```
-##Process
+## Process
 
 <p>Step1 : Go to > <b>tests</b> folder and create a new test file with <b>.spec.js</b> extension to add test script.</p>
 <p>Step 2: Add the following script and save the file</p>
