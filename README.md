@@ -129,7 +129,7 @@ https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/999c3662-56ac-4
 
 
 <h1>Results</h1>
-<p>The test case we executed, will tests for the intial flight amount before clicking the link to the flight amount after clicking the link.</p>
+<p>The test case we executed, will test for the intial flight amount before clicking the link with the flight amount after clicking the link.</p>
 <p>Here is the logic for comparison:</p>
 
 ```JavaScript
@@ -155,11 +155,12 @@ if (price1_extract === f_price) {
 
 
 <h1>Challenges faced during Assignment</h1>
-<p>Intially I stated, by using Selenium tool for automation but while executing the test script in Selenium, the browser is opening a Captcha and I try to slove Catcha but it appears again and again. Then I tried some methods to bypass the Captcha, but it doesn't works.</p>
+<p>Initially, I began automating tasks using the Selenium tool. However, as the test script ran in Selenium, the browser opened a Captcha. I attempted to eradicate it, but it kept popping up. Then I tried some methods to get around the Captcha, but they didn't work.
+</p>
 <img width="500" alt="Screenshot 2023-12-18 at 6 25 48 PM" src="https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/84821cd8-fdcf-466b-b969-9c00b20c0311">
 <br><br>
 
-<p>So then I used Playwright tool, and I only used Firefox browser for testing since I found that other web browser are producing Captcha while executig test scripts. Wherein I successfully executed testcase in Firefox browser and I got Test reports where I attached a screenshot in the above section</p>
+<p>So I used Playwright tool and only used Firefox browser for testing because I discovered that other web browsers generate Captcha while running test scripts. Using which I successfully executed the testcase in Firefox browser and received Test reports, of which I attached a screenshot in the preceding section.</p>
 
 <img width="1399" alt="Screenshot 2023-12-20 at 2 28 00 PM" src="https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/31db9609-549f-4afa-9f7f-0beb9eef22fe">
 
