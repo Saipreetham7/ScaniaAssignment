@@ -46,7 +46,7 @@ npx playwright install
 ```
 ## Procedure
 
-<p>Step1 : Go to > <b>tests</b> folder and create a new test file with <b>.spec.js</b> extension to add test script.</p>
+<p>Step1 : Go to > `<b>tests</b>` folder and create a new test file with <b>.spec.js</b> extension to add test script.</p>
 <p>Step 2: Add the following script and save the file</p>
 
 ```Javascript
