@@ -112,3 +112,21 @@ npx playwright test ./tests/test1.spec.js --project firefox --headed
 <p><b>Here is a recored video of execution of the test case</b></p>
 
 https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/999c3662-56ac-452b-ba61-504bc7c4da71
+
+###Results
+<p>The test case we executed, will tests for the intial flight amount before clicking the link to the flight amount after clicking the link.</p>
+<p>Here is the logic for comparison:</p>
+
+```JavaScript
+if (price1_extract === f_price) {
+    console.log('Testcase Passed: Prices are same');
+  } else {
+    console.log('Testcase Failed: Prices are different, berfore and after');
+}
+```
+
+<p>Here, 
+  <li>if both the prices are same then we print "Testcase Passed"</li>
+  <li>If they are different, we print "Testcase Failed"</li>
+</p>
+
