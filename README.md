@@ -113,7 +113,8 @@ npx playwright test ./tests/test1.spec.js --project firefox --headed
 
 https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/999c3662-56ac-452b-ba61-504bc7c4da71
 
-###Results
+
+##Results
 <p>The test case we executed, will tests for the intial flight amount before clicking the link to the flight amount after clicking the link.</p>
 <p>Here is the logic for comparison:</p>
 
