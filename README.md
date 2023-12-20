@@ -161,5 +161,6 @@ if (price1_extract === f_price) {
 
 <p>So then I used Playwright tool, and I only used Firefox browser for testing since I found that other web browser are producing Captcha while executig test scripts. Wherein I successfully executed testcase in Firefox browser and I got Test reports where I attached a screenshot in the above section</p>
 
+<img width="1399" alt="Screenshot 2023-12-20 at 2 28 00 PM" src="https://github.com/Saipreetham7/ScaniaAssignment/assets/70648426/31db9609-549f-4afa-9f7f-0beb9eef22fe">
 
 
